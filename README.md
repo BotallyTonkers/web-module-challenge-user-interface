@@ -42,7 +42,7 @@ Your finished project must include all of the following requirements:
  
 ### Semantic HTML and CSS Fill-in-the-Blanks
 
-[Review the provided design file for the menu page](design-files/Unit1-Sprint3-Module1.png).
+[Review the provided design file for the menu page](design-n-files/Unit1-Sprint3-Module1.png).
 
 * [ ] Create the HTML structure using semantic tags
 * [ ] Fill in the blanks in the CSS
